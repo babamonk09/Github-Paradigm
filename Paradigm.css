@@ -43,9 +43,74 @@ body {
   color: black;
 }
 
+.paragraph5 {
+  position: absolute;
+  top: 110%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: black;
+}
+
+.paragraph6 {
+  position: absolute;
+  top: 115%;
+  left: 10%;
+  right: 10%;
+  color: black;
+}
+
+.paragraph7 {
+  position: absolute;
+  top: 130%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: black;
+}
+
+.paragraph8 {
+  position: absolute;
+  top: 135%;
+  left: 10%;
+  right: 10%;
+  color: black;
+}
+
+.paragraph9 {
+  position: absolute;
+  top: 160%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: black;
+}
+
+.paragraph10 {
+  position: absolute;
+  top: 164%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: black;
+}
+
 .video {
   position: absolute;
   top: 80%;
   left: 50%;
   transform: translate(-50%, -50%);
+}
+
+.link1 {
+  position: absolute;
+  top: 175%;
+  left: 20%;
+  transform: translate(-50%, -50%);
+  color: black;
+}
+
+
+.link2 {
+  position: absolute;
+  top: 175%;
+  left: 80%;
+  transform: translate(-50%, -50%);
+  color: black;
 }
