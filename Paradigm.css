@@ -1,5 +1,5 @@
 body {
-  background-color: yellow;
+  background-color: white;
   color: lightblue;
 }
 
@@ -14,19 +14,38 @@ body {
 .paragraph1 {
   position: absolute;
   top: 20%;
-  left: 5%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: black;
+}
+
+.paragraph2 {
+  position: absolute;
+  top: 25%;
+  left: 10%;
+  right: 10%;
+  color: black;
+}
+
+.paragraph3 {
+  position: absolute;
+  top: 36%;
+  left: 10%;
+  right: 10%;
+  color: black;
+}
+
+.paragraph4 {
+  position: absolute;
+  top: 44%;
+  left: 10%;
+  right: 10%;
+  color: black;
 }
 
 .video {
   position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
-.video2 {
-  position: absolute;
-  top: 100%;
+  top: 80%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
